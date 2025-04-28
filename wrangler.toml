@@ -6,3 +6,6 @@ compatibility_date = "2024-04-28"
 binding = "DB"
 database_name = "users-db"  # Cloudflare dashboard'daki D1 database ismi
 database_id = "cadc25f3-3ab7-4a8c-aa0e-b36ac359defe"  # D1 veritabanı ID'si (Dashboard'dan aldığın)
+
+[vars]
+JWT_SECRET = "pD8!aXz5&Bv3M@kz!2#RqUe6Pf9!rNsX"
